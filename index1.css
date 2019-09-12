@@ -1,0 +1,20 @@
+.redText
+{
+    color: red;
+
+}
+
+.blueText
+{
+    color: blue;
+}
+
+.greenBackground
+{
+    background-color: green;
+    color: white;
+}
+.orangeBackground{
+    background-color: orange;
+    color: white;
+}

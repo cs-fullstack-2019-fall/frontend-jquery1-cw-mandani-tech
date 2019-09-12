@@ -1,0 +1,12 @@
+*{
+    border: 1px solid blue;
+
+}
+table{
+    width: 100%;
+    height: 500px;
+}
+
+.grey{
+    background-color: grey;
+}
