@@ -1,8 +1,9 @@
 # Introduction to jQuery Graded Classwork
-
+#### 1/3 + partial See exercise2.js for comments Score : 3
 ## Use only jQuery to select elements 
   
 ### Exercise 1 (index1.html, index1.css, index1.js): 
+##### Correct 
 Create a new HTML file and paste the text below into the body of the HTML file. Use jQuery and CSS to give the elements in the provided HTML their desired features. 
 
 ```
@@ -17,8 +18,10 @@ Create a new HTML file and paste the text below into the body of the HTML file. 
 ```
 
 ### Exercise 2 (selectors.html, myStyle.css, exercise2.js):
+##### Partial 
 Using the existing ```selectors.html``` file, write the JavaScript or jQuery needed to hide and display the middle image every 2 seconds (Hint: Interval).
 
 
 ### Exercise 3 (index3.html, index3.css, index3.js): 
+##### Incomplete 
 Create a table with 4 columns and 6 rows. Put the text "jQuery" in each cell/box. Add a button outside of that table. When that button is clicked set the background color of every other row to grey.
